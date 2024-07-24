@@ -1,0 +1,29 @@
+phrase:
+  access_token: 6793ef4095e83447bdf7942e0d4eba5738cb28b610b8676543df7ee21156c929
+  project_id: fb5f347a0581a14f8517bd01c86ecb23
+  file format: xml
+  
+  
+  push:
+    sources:
+    - file: ./source-locale/main/figma-designs/design_keys.xml
+      params:
+        file_format: xml
+        locale_id: en
+        update_translations: false
+        
+        
+  pull:
+    targets:
+    - file: ./translations/<locale_code>/design_keys_<locale_code>.xml
+      params: 
+        locale_id: de
+        file_format: xml
+    - file: ./translations/<locale_code>/design_keys_<locale_code>.xml
+      params: 
+        locale_id: el
+        file_format: xml
+    - file: ./translations/<locale_code>/design_keys_<locale_code>.xml
+      params: 
+        locale_id: es
+        file_format: xml
