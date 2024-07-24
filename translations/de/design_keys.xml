@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app.cart">In den Warenkorb geben</string>
+    <string name="app.describe">Der beste Ort, um wunderbare Möbel zu entdecken, um Ihr Zuhause schön zu machen</string>
+    <string name="app.get_started">Beginnen</string>
+    <string name="app.greeting">Willkommen!</string>
+    <string name="app.header">MACHEN SIE IHR ZUHAUSE SCHÖN</string>
+    <string name="app.product.description">Dieser Ständer ist aus Naturholz gefertigt. Das Design ist sehr einfach und minimalistisch. Dies ist wirklich eines der besten Stücke für jedes Zuhause. Erhältlich in 3 verschiedenen Farben, können Sie ganz einfach die beste Übereinstimmung für Ihr Zuhause auswählen.</string>
+    <string name="app.product.title">Minimaler Standfuß</string>
+    <string name="app.rating_value">4,5</string>
+    <string name="app.reviews">{{count}} rezensionen</string>
+    <string name="app.sign_in">Anmelden</string>
+    <string name="app.signin.email">E-Mail</string>
+    <string name="app.signup">Anmelden</string>
+    <string name="app.signup.password">Passwort</string>
+    <string name="app.signup.password_forgot">Passwort vergessen?</string>
+</resources>
