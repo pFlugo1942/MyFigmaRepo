@@ -1,2 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<resources/>
+<resources>
+    <string name="app.cart">Προσθήκη στο καλάθι</string>
+    <string name="app.describe">Το καλύτερο μέρος για να ανακαλύψετε υπέροχα έπιπλα για να κάνετε το σπίτι σας όμορφο</string>
+    <string name="app.get_started">Ξεκινήσετε</string>
+    <string name="app.greeting">Καλώς όρισες!</string>
+    <string name="app.header">ΚΑΝΤΕ ΤΟ ΣΠΙΤΙ ΣΑΣ ΟΜΟΡΦΟ</string>
+    <string name="app.product.description">Αυτή η βάση είναι κατασκευασμένη από φυσικό ξύλο. Ο σχεδιασμός είναι πολύ απλός και μινιμαλιστικός. Αυτό είναι πραγματικά ένα από τα καλύτερα κομμάτια για κάθε σπίτι. Διατίθεται σε 3 διαφορετικά χρώματα, μπορείτε εύκολα να επιλέξετε το καλύτερο ταίρι για το σπίτι σας.</string>
+    <string name="app.product.title">Μίνιμαλ βάση</string>
+    <string name="app.rating_value">4.5</string>
+    <string name="app.reviews">{{count}} κριτικές</string>
+    <string name="app.sign_in">Είσοδος</string>
+    <string name="app.signin.email">Ηλεκτρονικού ταχυδρομείου</string>
+    <string name="app.signup">ΕΓΓΡΑΦΉ</string>
+    <string name="app.signup.password">Κωδικό πρόσβασης</string>
+    <string name="app.signup.password_forgot">Ξεχάσατε τον κωδικό;</string>
+</resources>
