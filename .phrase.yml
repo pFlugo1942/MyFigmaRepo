@@ -1,5 +1,5 @@
 phrase:
-  access_token: 6793ef4095e83447bdf7942e0d4eba5738cb28b610b8676543df7ee21156c929
+  access_token: 91d35b928fea76c4b360ca3fcb9505f8972623fd9b0f2f43d1f0457b0a8f6dc5
   project_id: fb5f347a0581a14f8517bd01c86ecb23
   file format: xml
   
@@ -15,15 +15,15 @@ phrase:
         
   pull:
     targets:
-    - file: ./translations/<locale_code>/design_keys_<locale_code>.xml
+    - file: ./translations/de/design_keys.xml
       params: 
         locale_id: de
         file_format: xml
-    - file: ./translations/<locale_code>/design_keys_<locale_code>.xml
+    - file: ./translations/el/design_keys.xml
       params: 
         locale_id: el
         file_format: xml
-    - file: ./translations/<locale_code>/design_keys_<locale_code>.xml
+    - file: ./translations/es/design_keys.xml
       params: 
         locale_id: es
         file_format: xml
